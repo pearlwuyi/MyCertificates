@@ -1,4 +1,4 @@
-### Exam-Required Certifications
+### High-Light Certifications
 
 | Provider  | Course Name | Certificate/Credential |
 | :------------- | :------------- | -------------: |
